@@ -9,7 +9,7 @@ namespace CalcOSKernel1
     {
         protected override void BeforeRun()
         {
-            Console.WriteLine("Cosmos booted successfully. Type a line of text to get it echoed back.");
+            Console.WriteLine("CalcOS 0.1.1-alpha booted successfully. Type a line of text to get it echoed back.");
         }
 
         protected override void Run()
